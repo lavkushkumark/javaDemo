@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>My First From</title>
+</head>
+<body bgcolor="orange">
+<hr>
+<h1 algin="center" ><font color="blue"><strong><u><center>FRIENDS DEGREE
+COLLEGE</center></u></strong></font></h1>
+<form> 
+<u><h2 align="center">Institute Application from</h2></u>
+<center><img src= "C:/practice HTML/images/INDIA.png" weight="150" height="150"></center>
+<tr>
+  <td><strong>Application Frist Name</strong></td><br>
+    <td><input type="text" name="Name" id="Name"></td></tr><br><br>
+<tr><td><strong>Middle Name</strong></td><br>
+  <td><input type="text" name="Name" id="Name"></td></tr><br><br>
+<tr><td><strong>Last Name</strong></td><br><td><input type="text" name="Name" id="Name"></td></tr><br><br>
+<tr><td><strong>Father's Name</strong></td><br><td><input type="text" name="Name" id="Name"></td></tr><br><br>
+<tr><td><strong>Mather's Name</strong></td><br><td><input type="text" name="Name" id="Name"></td></tr><br><br>
+<tr><td><strong>Date of Birth</strong></td><br><td><input type="Date" name="Name"></td></tr><br><br>
+ <tr><label>
+<td><strong>Gender</strong></td><br>
+               <td><input type="radio" name="gender"> Male
+                  <br><input type="radio" name="gender"> FeMale
+                  <br><input type="radio" name="gender"> Both</td>
+</label></tr><br><br>
+<tr><td><strong>Application Mobail No.</strong></td><br>
+<td><input type="text" name="Name"></td></tr><br><br>
+<tr><td><strong>Application Email ID</strong></td><br>
+<td><input type="text" name="Name"></td></tr><br><br>
+<tr><td><strong>Application Address</strong></td><br><td>
+<input type="text" name="Name"></td></tr><br><br>
+<tr>
+<td><strong>Year of Passing</strong></td><br>
+<td><input type="text" name="Name"></td></tr><br><br>
+<tr><td><strong>Application Category</strong></td><br><select>
+<option>    </option>
+<option>OC</option>
+<option>OBC</option>
+<option>BC</option>
+<option>SC</option>
+<option>AN</option></select></tr><br><br>
+<tr><td><strong>Course</strong></td><br><select>
+<option>        </option>
+<option>Core Java</option>
+<option>Oracle</option>
+<option>UI</option>
+<option>AdvJava</option>
+<option>Spring Boot</option>
+<option>React JS</option>
+<option>Angular</option>
+<option>Devops</option>
+<option>Android</option></select></tr><br><br>
+<tr><td><strong>State & City</strong></td><br><td><input type="text" name="Name"></td/></tr><br><br>
+<!-----<tr><td><input type="Submit" value="Register"></td></tr><br><br>---->
+<a href="https://instagram.com/kashyapking0043?igshid=NGExMml2YTkyZg==.webp">Click here</a>
+</table>
+</form>
+</body>
+</html>
+
+
+ 
